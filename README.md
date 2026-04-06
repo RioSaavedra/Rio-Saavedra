@@ -1,3 +1,5 @@
 Hola, soy Rio Saavedra
-
-https://chatgpt.com
+FUENTES DE INFORMACION
+https://chatgpt.com/
+https://grok.com/
+ 
