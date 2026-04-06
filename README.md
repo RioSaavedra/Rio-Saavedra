@@ -1,6 +1,6 @@
 RIO SAAVEDRA
 
-FUENTES DE INFORMACION
+FUENTES DE INFORMACION RECURRENTES
 https://chatgpt.com/
 https://grok.com/
 
